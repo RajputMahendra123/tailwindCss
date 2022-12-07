@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 h1{
-  "text"  : "white"
+  text-align: end;
 }
